@@ -2,21 +2,15 @@
 
 ## My contacts
 
-====
-
 - E-mail: defimov9@gmail.com
 - Github: [defimov9](https://github.com/defimov9)
 - Tel: +79068284484
 
 ## About Me
 
-====
-
 My name is Denis, I am 21 years old. I want to become a front-end developer and I will do everything to achieve my goal.
 
 ## Skills
-
-====
 
 - HTML
 - CSS
@@ -24,8 +18,6 @@ My name is Denis, I am 21 years old. I want to become a front-end developer and 
 - JavaScript
 
 ## Code examples
-
-====
 
 ```
 function getUsefulInfo(letters) {
@@ -54,8 +46,6 @@ function getUsefulInfo(letters) {
 
 ## Education
 
-====
-
 - Ural Federal University
   - Informatics and Computer Engineering
 - Udemy
@@ -64,7 +54,5 @@ function getUsefulInfo(letters) {
   - JS/FE Stage 0 (in process...)
 
 ## Languages
-
-====
 
 English - **A2**
